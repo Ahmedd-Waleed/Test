@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1688871155 source:d:\01-learn\03-embedded\01-c\programs\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1688206364 d:\01-learn\03-embedded\01-c\programs\test\math.h
+
+1688381723 source:d:\01-learn\03-embedded\01-c\programs\test\math.c
+
