@@ -8,7 +8,7 @@ void bubbleSort(int*);
 
 int main()
 {
-    int arr[size] = {7,9,3,4,5};
+    int arr[size] = {7,9,3,4,5,3};
     //selectionSort(arr);
     bubbleSort(arr);
     int i;
